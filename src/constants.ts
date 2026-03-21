@@ -1,0 +1,9 @@
+export const SYSTEM_PROGRAM_ID = '11111111111111111111111111111111';
+export const TOKEN_PROGRAM_ID = 'TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA';
+export const ATA_PROGRAM_ID = 'ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL';
+
+export const LAMPORTS_PER_SOL = 1_000_000_000n;
+export const BLOCKHASH_CACHE_SIZE = 300;
+
+export const MINT_SIZE = 82;
+export const TOKEN_ACCOUNT_SIZE = 165;
